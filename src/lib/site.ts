@@ -1,8 +1,9 @@
-export const site = {
+export const siteConfig = {
   name: "Switch Kit",
+  domain: "jasonjeaton.me",
+  url: "https://www.jasonjeaton.me",
   tagline: "Life after disposables.",
-  url: "https://jasonjeaton.me",
   description:
-    "Switch Kit is an independent UK editorial site that helps former disposable vape users find a reusable, refillable device that suits their habits, now that single-use disposables are banned.",
+    "Switch Kit is an independent UK editorial site that helps former disposable-vape users find a reusable, refillable replacement now that single-use disposables are banned in England, Scotland, Wales and Northern Ireland.",
   contactEmail: "hello@jasonjeaton.me",
-};
+} as const;
