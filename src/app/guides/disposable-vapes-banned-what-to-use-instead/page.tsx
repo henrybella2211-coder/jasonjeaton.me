@@ -51,6 +51,16 @@ export default function Page() {
         weren&apos;t affected. If a device has a rechargeable battery and a pod or tank
         you can refill, it&apos;s still entirely legal to buy and sell.
       </p>
+      <p>
+        Owning disposables you already had before the ban isn&apos;t illegal either,
+        it&apos;s selling them that stopped. If you&apos;ve still got a few sitting
+        around once they&apos;re empty, see{" "}
+        <Link href="/guides/what-to-do-with-your-old-disposable-vapes-now-banned">
+          our guide on what to do with your old disposable vapes now they&apos;re
+          banned
+        </Link>{" "}
+        for how to recycle them properly rather than putting them in the bin.
+      </p>
 
       <h2>Why a pod kit is the easiest swap</h2>
       <p>

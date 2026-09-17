@@ -84,6 +84,14 @@ export default function Page() {
         <li>500 to 800mAh: typical for most former disposable users, charging every day or two.</li>
         <li>800mAh and above: heavier use, or you&apos;d rather charge less often.</li>
       </ul>
+      <p>
+        Battery size is only half the story though, settings and habits make a real
+        difference too. We cover both in{" "}
+        <Link href="/guides/how-to-make-your-pod-kit-battery-last-all-day">
+          our guide to making a pod kit battery last all day
+        </Link>
+        .
+      </p>
 
       <h2>Draw-activated or button kits</h2>
       <p>
