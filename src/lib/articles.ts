@@ -83,6 +83,20 @@ export const articles: Article[] = [
       alt: "Close-up of a white USB-C charging cable and connector against a dark background",
     },
   },
+  {
+    slug: "al-fakher-hypermax-prime-50k-built-to-feel-like-a-disposable",
+    title: "The Al Fakher HyperMax Prime 50K: a rechargeable option built to feel like a disposable",
+    excerpt:
+      "A closer look at a snap-pod rechargeable kit designed around the same unbox-and-go simplicity people liked about disposables, and who it actually suits.",
+    category: "Kit spotlight",
+    readTime: "7 min read",
+    lastUpdated: "Last updated 18 September 2026",
+    lastUpdatedISO: "2026-09-18",
+    image: {
+      src: "/images/rechargeable-pod-kits-usb-c-port.jpg",
+      alt: "Two compact rechargeable pod vape kits standing on a reflective surface, one showing its USB-C charging port",
+    },
+  },
 ];
 
 export function getArticleBySlug(slug: string): Article | undefined {

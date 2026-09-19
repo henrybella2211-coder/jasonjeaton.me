@@ -103,6 +103,16 @@ export default function Page() {
         prefer once they&apos;re used to it. Neither is objectively better, it&apos;s a
         matter of what you find easiest to use without thinking about it.
       </p>
+      <p>
+        Some newer kits go a step further by sealing the coil into a snap-on pod rather
+        than an open tank you fill yourself, trading a bit of flexibility for something
+        even closer to disposable-level simplicity. We look at one example of that
+        approach in{" "}
+        <Link href="/guides/al-fakher-hypermax-prime-50k-built-to-feel-like-a-disposable">
+          our look at the Al Fakher HyperMax Prime 50K
+        </Link>
+        .
+      </p>
 
       <h2>Running costs compared</h2>
       <p>
