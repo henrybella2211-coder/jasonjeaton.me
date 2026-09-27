@@ -97,6 +97,20 @@ export const articles: Article[] = [
       alt: "Two compact rechargeable pod vape kits standing on a reflective surface, one showing its USB-C charging port",
     },
   },
+  {
+    slug: "matching-your-old-disposables-nicotine-hit-with-the-right-nic-salt-strength",
+    title: "Matching your old disposable's nicotine hit with the right nic salt strength",
+    excerpt:
+      "Disposables didn't give most people much of a nicotine strength choice. Here's how to translate that habit into picking 5mg, 10mg or 20mg nic salt e-liquid for a refillable kit.",
+    category: "E-liquid & nicotine",
+    readTime: "7 min read",
+    lastUpdated: "Last updated 27 September 2026",
+    lastUpdatedISO: "2026-09-27",
+    image: {
+      src: "/images/nic-salt-eliquid-bottles.jpg",
+      alt: "Several small 10ml nicotine salt e-liquid bottles lined up on a shop counter, each labelled with its flavour and nicotine strength",
+    },
+  },
 ];
 
 export function getArticleBySlug(slug: string): Article | undefined {

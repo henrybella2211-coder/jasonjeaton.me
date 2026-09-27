@@ -155,7 +155,13 @@ export default function Page() {
         applied to disposables, and you&apos;ll find the same broad range of fruit,
         menthol, tobacco and dessert flavours in bottle or prefilled pod form. If your
         disposable was a particular nicotine strength, checking the mg/ml figure on a
-        bottle or pod is the easiest way to match it.
+        bottle or pod is the easiest way to match it, and we go into how to translate
+        that habit into a nic salt strength in{" "}
+        <Link href="/guides/matching-your-old-disposables-nicotine-hit-with-the-right-nic-salt-strength">
+          our guide to matching your old disposable&apos;s nicotine hit with the right
+          nic salt strength
+        </Link>
+        .
       </p>
       <p>
         As with any vaping product, you need to be 18 or over to buy one, and retailers
