@@ -106,12 +106,16 @@ export default function Page() {
       <p>
         Some newer kits go a step further by sealing the coil into a snap-on pod rather
         than an open tank you fill yourself, trading a bit of flexibility for something
-        even closer to disposable-level simplicity. We look at one example of that
+        even closer to disposable-level simplicity. We look at two examples of that
         approach in{" "}
         <Link href="/guides/al-fakher-hypermax-prime-50k-built-to-feel-like-a-disposable">
           our look at the Al Fakher HyperMax Prime 50K
+        </Link>{" "}
+        and{" "}
+        <Link href="/guides/lost-mary-bm6000-draw-activated-alternative-for-disposable-users">
+          our look at the Lost Mary BM6000
         </Link>
-        .
+        , a draw-activated kit with no buttons at all.
       </p>
 
       <h2>Running costs compared</h2>

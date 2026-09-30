@@ -111,6 +111,20 @@ export const articles: Article[] = [
       alt: "Several small 10ml nicotine salt e-liquid bottles lined up on a shop counter, each labelled with its flavour and nicotine strength",
     },
   },
+  {
+    slug: "lost-mary-bm6000-draw-activated-alternative-for-disposable-users",
+    title: "The Lost Mary BM6000: a draw-activated alternative for former disposable users",
+    excerpt:
+      "No buttons, a rechargeable battery and a replaceable pod. A look at why the BM6000's draw-activated design is one of the closer matches to a disposable's simplicity, and where the running costs actually land.",
+    category: "Kit spotlight",
+    readTime: "7 min read",
+    lastUpdated: "Last updated 30 September 2026",
+    lastUpdatedISO: "2026-09-30",
+    image: {
+      src: "/images/draw-activated-pod-vape-in-hand.jpg",
+      alt: "A slim, gold-coloured draw-activated pod vape device held between two fingers outdoors",
+    },
+  },
 ];
 
 export function getArticleBySlug(slug: string): Article | undefined {
